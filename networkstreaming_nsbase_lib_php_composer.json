@@ -1,0 +1,13 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "ssh://git@git.bt3ng.com:7999/try/php-saml.git"
+        }
+    ],
+    "require": {
+        "onelogin/php-saml": "dev-3.4.1-bg",
+        "pear/log": "^1.13",
+        "smarty/smarty": "^4.0"
+    }
+}
